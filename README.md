@@ -38,3 +38,6 @@ void RGB_color(int red_light_value, int green_light_value, int blue_light_value)
 	analogWrite(green_light_pin, green_light_value);
 	analogWrite(blue_light_pin, blue_light_value);
 }
+
+
+[🔗 Simulate on Tinkercad](https://www.tinkercad.com/things/3dJAlvhkZQA-dazzling-borwo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=Tddfcbq-BFWy1ivwieM4JFLHwgVlrlHjAzw7RzKSiGU)
